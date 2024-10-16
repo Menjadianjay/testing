@@ -55,7 +55,7 @@ body {
 .input-box input::placeholder {
   color: rgb(13, 76, 127);
   font-style: bold;
-  font-weight: 300s;
+  font-weight: 300;
 }
 .input-box i {
   position: absolute;
