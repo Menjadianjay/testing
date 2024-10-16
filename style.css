@@ -49,12 +49,13 @@ body {
   border: 2px solid rgb(255, 225, 0);
   border-radius: 40px;
   font-size: 16;
-  font-style: bold;
   color: rgb(13, 76, 127);
   padding: 20px 45px 20px 20px;
 }
 .input-box input::placeholder {
   color: rgb(13, 76, 127);
+  font-style: bold;
+  font-weight: 300;
 }
 .input-box i {
   position: absolute;
